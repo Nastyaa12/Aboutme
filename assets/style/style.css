@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    text-decoration: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family:cursive;
+}
+
+body{
+    background-color:blanchedalmond;
+}
+
+header .head-whithout-radio{
+    display: flex;
+    justify-content: center
+}
+
+header .head-whithout-radio a{
+    color: rgb(63, 46, 35);
+    font-family:cursive;
+    font-size: 20pt;
+    margin: 30px;
+}
