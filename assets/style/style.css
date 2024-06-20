@@ -48,3 +48,28 @@ header .home{
     align-items: center;
     border-radius: 10px
 }
+
+header .skills{
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    background-color:rgba(126, 69, 31, 0.479);
+}
+
+header .skills .hard, .soft{
+    margin: 0 100px;
+    background-color:rgba(255, 235, 205, 0.753);
+    width: 1000px;
+}
+
+
+header .skills h1,p{
+    color: rgb(63, 46, 35);
+    margin: 60px;
+}
+
+header .iamstupid{
+    display: flex;
+    font-size: 30px;
+    justify-content: center; 
+}
