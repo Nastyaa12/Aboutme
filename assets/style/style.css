@@ -95,3 +95,34 @@ header .portfolio .blok p{
     display: flex;
     justify-content: center; 
 }
+
+header .contacts{
+    height: 500px;
+    background-color:rgba(126, 69, 31, 0.479);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+header .contacts .blok img{
+    height: 90px;
+    margin: 0 160px;
+}
+
+header .contacts .blok{
+    background-color:rgba(255, 235, 205, 0.753);
+    margin: 40px 0;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+header .contacts .blok h1, p{
+    font-size: 20pt;
+    display: flex;
+    justify-content: center; 
+}
+
+header .contacts .blok h1{
+    margin: 20px;
+}
