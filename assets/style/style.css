@@ -126,3 +126,26 @@ header .contacts .blok h1, p{
 header .contacts .blok h1{
     margin: 20px;
 }
+
+header .Career{
+    height: 900px;
+    background-image: url(../img/30583.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column
+}
+
+header .Career .blok{
+    background-color:rgba(255, 235, 205, 0.753);
+    margin: 40px;
+}
+
+header .Career .blok h1, p{
+    display: flex;
+    justify-content: center; 
+}
+
+header .Career .blok h1{
+    font-size: 50px;
+    color: rgb(141, 77, 16);
+}
