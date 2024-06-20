@@ -73,3 +73,25 @@ header .iamstupid{
     font-size: 30px;
     justify-content: center; 
 }
+
+header .portfolio{
+    display: flex;
+    justify-content: center; 
+}
+
+header .portfolio .blok h1{
+    display: flex;
+    justify-content: center; 
+}
+
+header .portfolio .blok img{
+    height: 300px;
+    margin: 20px;
+}
+
+header .portfolio .blok p{
+    font-size: 20pt;
+    margin: 20px;
+    display: flex;
+    justify-content: center; 
+}
